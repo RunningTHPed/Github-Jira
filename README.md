@@ -1,2 +1,3 @@
-# Test-Jira
-Connect to Jira
+# Github-Jira
+Connection between Jira and Github
+
